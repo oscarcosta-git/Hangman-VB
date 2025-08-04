@@ -1,0 +1,16 @@
+C:\Users\Dylan\source\repos\Hangman\Hangman\obj\Release\Hangman.vbproj.AssemblyReference.cache
+C:\Users\Dylan\source\repos\Hangman\Hangman\obj\Release\Hangman.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Dylan\source\repos\Hangman\Hangman\obj\Release\Hangman.Hangman.resources
+C:\Users\Dylan\source\repos\Hangman\Hangman\obj\Release\Hangman.HelpMenu.resources
+C:\Users\Dylan\source\repos\Hangman\Hangman\obj\Release\Hangman.Resources.resources
+C:\Users\Dylan\source\repos\Hangman\Hangman\obj\Release\Hangman.SettingsMenu.resources
+C:\Users\Dylan\source\repos\Hangman\Hangman\obj\Release\Hangman.Start.resources
+C:\Users\Dylan\source\repos\Hangman\Hangman\obj\Release\Hangman.vbproj.GenerateResource.cache
+C:\Users\Dylan\source\repos\Hangman\Hangman\obj\Release\Hangman.vbproj.CoreCompileInputs.cache
+C:\Users\Dylan\source\repos\Hangman\Hangman\bin\Release\Hangman.exe.config
+C:\Users\Dylan\source\repos\Hangman\Hangman\bin\Release\Hangman.exe
+C:\Users\Dylan\source\repos\Hangman\Hangman\bin\Release\Hangman.pdb
+C:\Users\Dylan\source\repos\Hangman\Hangman\bin\Release\Hangman.xml
+C:\Users\Dylan\source\repos\Hangman\Hangman\obj\Release\Hangman.exe
+C:\Users\Dylan\source\repos\Hangman\Hangman\obj\Release\Hangman.xml
+C:\Users\Dylan\source\repos\Hangman\Hangman\obj\Release\Hangman.pdb
