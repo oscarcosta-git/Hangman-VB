@@ -1,4 +1,12 @@
 # Hangman-VB
-A simple Hangman game developed in Visual Basic as part of a Year 11 Software Design and Development course. This project was created to demonstrate core programming concepts such as string manipulation, control structures, user input handling, and basic GUI design.
+A classic Hangman game built in Visual Basic in 2023 as part of a Year 11 Software Design and Development course.
 
-The game allows players to guess a hidden word, with incorrect guesses gradually revealing parts of a hangman figure. Includes features like input validation, win/lose detection, and a basic UI.
+This project demonstrates core programming concepts, including:
+
+- String manipulation
+- Control structures and loops
+- User input handling
+- Basic GUI design using Windows Forms
+
+Players must guess a hidden word, with each incorrect guess revealing a part of the hangman figure. The game includes input validation, win/lose detection, and a simple, user-friendly interface.
+
